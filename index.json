@@ -87,6 +87,11 @@
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-youtube.json"
     },
     {
+      "id": "list-telegram",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/list-telegram.json"
+    }
+    {
       "id": "list-exclude-general",
       "type": "list_exclude",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/exclude/list-exclude-general.json"
